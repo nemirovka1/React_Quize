@@ -19,7 +19,7 @@ const questions = [
       'Две переменные',
       'Массив из двух элементов',
     ],
-    correct: 3,
+    correct: 2,
   },
   {
     title: 'Что такое JSX?',
